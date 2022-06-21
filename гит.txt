@@ -36,6 +36,8 @@ git branch - создание новой ветки
 
 git checkout - переключение ветки
 
+git merge --no-ff (Название ветки) - Слияние веток
+
 
 
 MARKDOWN
